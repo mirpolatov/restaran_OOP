@@ -1,0 +1,19 @@
+[
+   {
+      "fullname": "ert",
+      "username": "er",
+      "password": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8",
+      "new_product": [
+         {
+            "id": 8,
+            "name": "2",
+            "amount": 2
+         },
+         {
+            "id": 9,
+            "name": "Norin",
+            "amount": 2
+         }
+      ]
+   }
+]
